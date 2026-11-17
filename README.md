@@ -6,7 +6,7 @@ Users can draw a digit on a digital canvas and receive a prediction, confidence 
 
 ## Project Demo
 
-**Live Application:** Coming soon
+**Live Application:** https://swatighosh121-mnist-digit-classifier-app-wmxfls.streamlit.app/git
 
 **GitHub Repository:** https://github.com/SwatiGhosh121/mnist-digit-classifier
 
